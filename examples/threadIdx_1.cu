@@ -18,6 +18,5 @@ int main(){
     cudaDeviceSynchronize();
     cudaDeviceReset();
 
-
     return 0;
 }
